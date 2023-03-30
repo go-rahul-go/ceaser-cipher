@@ -1,0 +1,1 @@
+console.log(text[i]+" index is "+index);
